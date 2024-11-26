@@ -7,4 +7,4 @@
 Construir un porfolio para Challenge ONE junto a Alura Latam.
 
 Este desafío ayudará a consolidar y fortalecer los conocimientos en estilización, responsividad, HTML y javascript, fundamentales para el diseño y desarrollo web.
-> Este repositorio se encuentra en continuo cambio.
+> El porfolio será actualizado en otro repositorio, puede observarlo desde [aqui](https://github.com/nyrha23/Trinidad_Pasi-Portafolio) 
