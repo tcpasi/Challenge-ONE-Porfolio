@@ -7,4 +7,4 @@
 Construir un porfolio para Challenge ONE junto a Alura Latam.
 
 Este desafío ayudará a consolidar y fortalecer los conocimientos en estilización, responsividad, HTML y javascript, fundamentales para el diseño y desarrollo web.
-> El porfolio será actualizado en otro repositorio, puede observarlo desde [aqui](https://github.com/tcpasi/Trinidad_Pasi-Portafolio) 
+> El porfolio será actualizado en otro repositorio.
